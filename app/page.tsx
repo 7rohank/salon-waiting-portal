@@ -283,12 +283,12 @@ export default function Home() {
         <div className="header-copy">
           <div className="eyebrow">
             <Scissors size={16} aria-hidden="true" />
-            Live salon queue
+            Studio operations
           </div>
           <h1>Salon Waiting Portal</h1>
           <p>
-            Add walk-ins, see who is next, and move guests from waiting to chair
-            to completed without losing the floor rhythm.
+            A polished front-desk queue for walk-ins, chair flow, service timing,
+            and guest status across a busy salon floor.
           </p>
         </div>
         <div className="visual-frame" aria-hidden="true">
