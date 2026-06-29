@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Salon Waiting Portal",
-  description: "A live waiting-list portal for salon walk-ins and staff.",
+  title: "Veloura Atelier",
+  description: "A refined salon queue and guest-flow portal for premium studio operations.",
 };
 
 export default function RootLayout({
